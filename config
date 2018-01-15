@@ -1,0 +1,5 @@
+name                         : Total.js Flowboard
+
+// Packages settings
+package#flow       (Object)  : { url: '/flow/' }
+package#flowboard  (Object)  : { url: '/' }
